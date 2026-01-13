@@ -1,0 +1,16 @@
+{
+	"id": "Corru Cards",
+	"author": ["Sprucelass"],
+	"description": "Spruce's Awesome Mod",
+	"prefix": "corru",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "44a2e2",
+	"badge_text_colour": "ffedab",
+	"display_name": "Corru Cards",
+	"version": "0",
+	"name":"Corru Cards",
+	"dependencies": [
+                "Steamodded (>=1.0.0~BETA-0626b)"
+        ]
+}
