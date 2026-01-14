@@ -1,11 +1,11 @@
 KAIJUTIL = {}
 
-SMODS.Atlas {
-    key = "kaiju_atlas",
-    path = "Jokers.png",
-    px = 71,
-    py = 95,
-}
+--SMODS.Atlas {
+--    key = "corru_atlas",
+--    path = "Jokers.png",
+--    px = 71,
+--    py = 95,
+--}
 
 SMODS.load_file("utils.lua")()
 
